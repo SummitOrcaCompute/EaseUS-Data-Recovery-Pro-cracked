@@ -32,4 +32,4 @@ easeus, easeus-data-recovery, data-recovery, easeus-2026, easeus-crack, file-rec
 
 Copyright (c) 2026 Contributors. MIT License.
 
-Provided AS IS without warranty. Use at your own risk.      
+Provided AS IS without warranty. Use at your own risk.       
